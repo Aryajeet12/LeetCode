@@ -12,9 +12,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aryajeet12/LeetCode/tree/master/0013-roman-to-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aryajeet12/LeetCode/tree/master/0013-roman-to-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Aryajeet12/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
