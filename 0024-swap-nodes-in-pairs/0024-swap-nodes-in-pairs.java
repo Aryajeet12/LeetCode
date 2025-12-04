@@ -15,7 +15,7 @@ class Solution {
         }
         ListNode a=head;
         ListNode b=head.next;
-        ListNode newnode=head.next;
+        ListNode newnode=b;
         ListNode prev=null;
         while(a!=null && b!=null){
             a.next=b.next;
