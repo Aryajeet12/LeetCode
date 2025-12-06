@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryajeet12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1323-maximum-69-number](https://github.com/Aryajeet12/LeetCode/tree/master/1323-maximum-69-number) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aryajeet12/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aryajeet12/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Aryajeet12/LeetCode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
