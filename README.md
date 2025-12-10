@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aryajeet12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryajeet12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Aryajeet12/LeetCode/tree/master/0415-add-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1323-maximum-69-number](https://github.com/Aryajeet12/LeetCode/tree/master/1323-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Aryajeet12/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aryajeet12/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryajeet12/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryajeet12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0415-add-strings](https://github.com/Aryajeet12/LeetCode/tree/master/0415-add-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/Aryajeet12/LeetCode/tree/master/0415-add-strings) |
 ## Number Theory
 |  |
 | ------- |
