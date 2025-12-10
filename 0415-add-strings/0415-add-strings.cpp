@@ -7,15 +7,17 @@ public:
         string ans = "";
 
         while (i >= 0 || j >= 0 || carry > 0) {
-            int a = (i >= 0) ? num1[i] - '0' : 0;
+            int a = (i >= 0) ? num1[i] - '0' : 0; 
             int b = (j >= 0) ? num2[j] - '0' : 0;
 
             int sum = a + b + carry;
-            ans += (sum % 10) + '0';  
-            carry = sum / 10;     
+            ans += (sum % 10) + '0';   
+            carry = sum / 10;         
+
             i--;
             j--;
         }
+
         reverse(ans.begin(), ans.end());
         return ans;
     }
