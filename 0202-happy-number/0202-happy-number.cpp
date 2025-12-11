@@ -1,17 +1,15 @@
 class Solution {
 public:
     bool isHappy(int n) {
-      // priority_queue<int> a;
        unordered_set<int> b;
        while(true){
             if(n==1){
                 return true;
             }
-            if(b.count(n)){
+            if(b.count(n)==1){
                 return false;
             }
             b.insert(n);
-           // a.push(n);
             int d=0;
             
             while(n>0){
