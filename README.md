@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryajeet12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aryajeet12/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryajeet12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryajeet12/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Aryajeet12/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Aryajeet12/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Aryajeet12/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryajeet12/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Aryajeet12/LeetCode/tree/master/0148-sort-list) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
