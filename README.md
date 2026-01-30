@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryajeet12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aryajeet12/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Aryajeet12/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryajeet12/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aryajeet12/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Math
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Aryajeet12/LeetCode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
 |  |
