@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aryajeet12/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryajeet12/LeetCode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Aryajeet12/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
@@ -142,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryajeet12/LeetCode/tree/master/0035-search-insert-position) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Aryajeet12/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
