@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/Aryajeet12/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aryajeet12/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Aryajeet12/LeetCode/tree/master/0605-can-place-flowers) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1323-maximum-69-number](https://github.com/Aryajeet12/LeetCode/tree/master/1323-maximum-69-number) |
 ## Enumeration
