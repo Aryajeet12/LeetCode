@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aryajeet12/LeetCode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aryajeet12/LeetCode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryajeet12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0605-can-place-flowers](https://github.com/Aryajeet12/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryajeet12/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryajeet12/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Binary Search
 |  |
