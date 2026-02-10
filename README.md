@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryajeet12/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aryajeet12/LeetCode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Aryajeet12/LeetCode/tree/master/0344-reverse-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aryajeet12/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String Matching
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Aryajeet12/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryajeet12/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Aryajeet12/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
