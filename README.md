@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aryajeet12/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryajeet12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Aryajeet12/LeetCode/tree/master/0605-can-place-flowers) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aryajeet12/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryajeet12/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryajeet12/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Aryajeet12/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Aryajeet12/LeetCode/tree/master/0415-add-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1323-maximum-69-number](https://github.com/Aryajeet12/LeetCode/tree/master/1323-maximum-69-number) |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Aryajeet12/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Aryajeet12/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aryajeet12/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 ## Dynamic Programming
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryajeet12/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
