@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aryajeet12/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Aryajeet12/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Aryajeet12/LeetCode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Aryajeet12/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Aryajeet12/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aryajeet12/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/Aryajeet12/LeetCode/tree/master/0415-add-strings) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Aryajeet12/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -224,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aryajeet12/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aryajeet12/LeetCode/tree/master/0054-spiral-matrix) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Aryajeet12/LeetCode/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
