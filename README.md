@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Aryajeet12/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Aryajeet12/LeetCode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aryajeet12/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aryajeet12/LeetCode/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Aryajeet12/LeetCode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Aryajeet12/LeetCode/tree/master/0509-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Aryajeet12/LeetCode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Aryajeet12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Aryajeet12/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aryajeet12/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aryajeet12/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
