@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Aryajeet12/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Aryajeet12/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aryajeet12/LeetCode/tree/master/0342-power-of-four) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Aryajeet12/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aryajeet12/LeetCode/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Aryajeet12/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Aryajeet12/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aryajeet12/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aryajeet12/LeetCode/tree/master/0326-power-of-three) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Aryajeet12/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Aryajeet12/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/Aryajeet12/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Aryajeet12/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Aryajeet12/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aryajeet12/LeetCode/tree/master/0342-power-of-four) |
