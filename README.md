@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aryajeet12/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/Aryajeet12/LeetCode/tree/master/0605-can-place-flowers) |
+| [0704-binary-search](https://github.com/Aryajeet12/LeetCode/tree/master/0704-binary-search) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Aryajeet12/LeetCode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/Aryajeet12/LeetCode/tree/master/1029-two-city-scheduling) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aryajeet12/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Aryajeet12/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryajeet12/LeetCode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Aryajeet12/LeetCode/tree/master/0704-binary-search) |
 ## Backtracking
 |  |
 | ------- |
