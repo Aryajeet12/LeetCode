@@ -1,7 +1,6 @@
 class Solution {
 public:
-    void getpermute(vector<int>& nums, int index,
-                    vector<vector<int>>& ans) {
+    void getpermute(vector<int>& nums, int index,vector<vector<int>>& ans) {
         if(index == nums.size()) {
             ans.push_back(nums);
             return;
